@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors!
 
-- I created this game for my little sister.
+- I created this game for my little sisters.
 
 - Used...
     - HTML
