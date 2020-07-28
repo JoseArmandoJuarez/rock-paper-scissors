@@ -7,6 +7,7 @@
     - JavaScript
     - CSS
     - GSAP (animation library)
+    - Bootstrap (css framework)
 
 My Portfolio: https://josejuarez.netlify.app/
 
