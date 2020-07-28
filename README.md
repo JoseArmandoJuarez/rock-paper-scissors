@@ -1,4 +1,4 @@
-# Rock, Paper, Scissots!
+# Rock, Paper, Scissors!
 
 - I created this game for my little sister.
 
