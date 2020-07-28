@@ -1,0 +1,45 @@
+body{
+    padding-top: 50px;
+    overflow-x: hidden;
+}
+
+.card{
+    width: 11rem;
+}
+
+#gameText{
+    text-transform: uppercase;
+}
+
+#paperHand{
+    display: none;
+    opacity: 0;
+}
+
+#scissorsHand{
+    display: none;
+    opacity: 0;
+}
+
+#render-elements{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.player-select{
+    cursor: pointer;
+}
+
+.anim-img{
+    width: 330px;
+}
+
+#youWonLost{
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+#footer{
+    padding-bottom: 80px;
+}
